@@ -1,0 +1,15 @@
+{
+  "name": "spin-wheel-react",
+  "version": "0.0.1",
+  "description": "React wrapper for spin-wheel",
+  "keywords": [
+    "react"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CrazyTim/spin-wheel-react.git"
+  },
+  "author": "CrazyTim",
+  "license": "MIT",
+  "homepage": "https://github.com/CrazyTim/spin-wheel-react#readme"
+}
